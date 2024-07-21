@@ -37,7 +37,7 @@ Menu de Opções:
 1. Liste-os e visualize os estados de cada um.
 2. Adicione os dispositivos que você poderá obter de acordo com o limite que você indicou. 
 4. Controle os estados dos dispositivos.
-3. Remova dipositvos.
+3. Remova dipositivos.
 5. Saiba quais são os dispositivos que estão em estado de LIGADO.
 
 
