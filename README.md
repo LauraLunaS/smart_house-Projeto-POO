@@ -7,13 +7,7 @@ Pré condições:
 
 1. Clone o projeto
 
-2. Você precisa criar um Ambiente Virtual. Faça isso executando o comando abaixo no Powershell:
-`python -m venv venv`
-
-3. Ative o ambiente virtual 
-`.venv\Scripts\activate`
-
-4. Para instalar as dependências do projeto, execute o comando:
+2. Para instalar as dependências do projeto, execute o comando:
 `py -m pip install -r requirements.txt`
 
 Agora, para iniciar o projeto, rode o arquivo main.py no terminal python.
