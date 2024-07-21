@@ -47,7 +47,7 @@ Menu de Opções:
 3. Remova dipositivos.
 5. Saiba quais são os dispositivos que estão em estado de LIGADO.
 
-Incie adicionando um dispositivo. Você poderá visualizar os dispostivos disponíveis e escolher um. 
+Inicie adicionando um dispositivo. Você poderá visualizar os dispostivos disponíveis e escolher um. 
 ```
 Digite o limite de dispositivos que a casa inteligente pode receber: 2
 
