@@ -12,7 +12,8 @@ def mostrar_menu():
     print("3. Remover dispositivo")
     print("4. Controlar dispositivo")
     print("5. Dispositivos On")
-    print("6. Sair")
+    print("6. Desligar todas as luzes")
+    print("7. Sair")
 
 def listar_dispositivos(home):
     if len(home.devices) == 0:
@@ -136,6 +137,8 @@ def main():
         elif opcao == '5':
             mostrar_total_dispositivos_on(home)
         elif opcao == '6':
+            home.desligar_todas_as_luzes()
+        elif opcao == '7':
             break
         else:
             print("Opção inválida!")

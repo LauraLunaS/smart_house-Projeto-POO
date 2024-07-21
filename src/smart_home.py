@@ -1,4 +1,5 @@
 from functools import reduce
+from light import Light
 
 class Home:
     __instance = None
@@ -32,3 +33,9 @@ class Home:
     
     def total_dispositivos_on(self):
         return reduce(lambda acc, device: acc + 1 if device.is_on() else acc, self.devices, 0)
+    
+    def desligar_todas_as_luzes(self):
+        def desligar_luz(device):
+            if isinstance(device, Light):
+                device.desligar()
+        list(map(desligar_luz, self.devices))

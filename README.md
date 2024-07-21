@@ -110,6 +110,22 @@ Dispositivos:
 
 ```
 
+Como requisito do projeto, você poderá desligar todas as luzes.
+
+```
+Menu de Opções:
+1. Listar dispositivos
+2. Adicionar dispositivo
+3. Remover dispositivo
+4. Controlar dispositivo
+5. Dispositivos On
+6. Desligar todas as luzes
+7. Sair
+Escolha uma opção: 6
+Notificação recebida: A luz foi 1 desligada.
+Notificação recebida: A luz foi 2 desligada.
+```
+
 Por fim, qualquer dispotivo pode ser removido a qualquer momento, utilizando a opção 3.
 
 ```

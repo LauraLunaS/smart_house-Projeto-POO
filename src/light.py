@@ -29,3 +29,10 @@ class Light(Device):
     
     def is_on(self):
         return self.state == LightStates.LIGADA
+    
+    def desligar(self):
+        if self.state == LightStates.DESLIGADA:
+            print("A luz já está desligada!")
+        else:
+            self.state = LightStates.DESLIGADA
+            self.notify_observers(f"A luz foi {self.id} desligada.")
