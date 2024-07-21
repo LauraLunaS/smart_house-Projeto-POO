@@ -19,7 +19,19 @@ Pré condições:
 Agora, para iniciar o projeto, rode o arquivo main.py no terminal python.
 
 
-## Descrição do Projeto
+## Descrição de uso do Projeto
+Ao iniciar o projeto, você deverá inidicar o limite de dispositivos que a casa pode receber.
+
+Após isso, você poderá interagir com o menu de opções abaixo.
+![alt text](image.png)
+
+1. Liste-os e visualize os estados de cada um.
+2. Adicione os dispositivos que você poderá obter de acordo com o limite que você indicou. 
+4. Controle os estados dos dispositivos.
+3. Remova dipositvos.
+5. Saiba quais são os dispositivos que estão em estado de LIGADO.
+
+
 
 
 
