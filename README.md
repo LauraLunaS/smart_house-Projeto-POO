@@ -23,7 +23,8 @@ Agora, para iniciar o projeto, rode o arquivo main.py no terminal python.
 Ao iniciar o projeto, você deverá inidicar o limite de dispositivos que a casa pode receber.
 
 Após isso, você poderá interagir com o menu de opções abaixo:
-`
+
+```
 Menu de Opções:
 1. Listar dispositivos
 2. Adicionar dispositivo
@@ -31,7 +32,7 @@ Menu de Opções:
 4. Controlar dispositivo
 5. Dispositivos On
 6. Sair
-`
+```
 
 1. Liste-os e visualize os estados de cada um.
 2. Adicione os dispositivos que você poderá obter de acordo com o limite que você indicou. 
